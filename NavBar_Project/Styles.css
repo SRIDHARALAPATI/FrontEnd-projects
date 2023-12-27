@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: aqua;
+}
+nav ul{
+    list-style: none;
+    padding: 15px;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul a{
+    text-decoration: none;
+    color: brown;
+    padding:15px 15px;
+    
+}
+.conatiner{
+    background-color: black;
+}
+
+nav ul a:hover{
+    background-color: grey;
+}
